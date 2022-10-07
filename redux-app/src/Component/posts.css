@@ -1,0 +1,26 @@
+
+.title{
+    color: #ffff; 
+    margin-left: 15px;
+    font-size: 20px;
+    font-family: 'Montserrat', sans-serif;
+    
+}
+
+
+.content{
+    margin-left: 15px;
+  color: #ffff;  
+  font-family: 'Italianno', cursive;
+  letter-spacing: 1px;
+}
+
+.header{
+    
+    border: 1px solid #ffff;
+    margin: 15px 15px;
+    width: 600px;
+    text-align: justify;
+    padding: 20px;
+
+}
